@@ -31,7 +31,7 @@
 
 ## `> whoami`
 
-Full-stack engineer who turns ideas into **production-grade web applications**. I care about clean architecture, performance, and developer experience — and I ship code that scales.
+Full-stack engineer who turns ideas into **production-grade web applications**. I care about clean architecture, performance, and developer experience and I ship code that scales.
 
 <table>
 <tr><td>
