@@ -103,21 +103,22 @@ const tarun = {
 
 ## `> featured-projects`
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Tarun25112002/Integrals">Integrals</a></h3>
-      <p align="center">Full-stack architecture and scalable patterns</p>
-      <p align="center">
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/Tarun25112002/Integrals">Integrals</a></h3>
+      <p>Full-stack architecture and scalable patterns</p>
+      <p>
         <a href="https://github.com/Tarun25112002/Integrals/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/Integrals?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
         <a href="https://github.com/Tarun25112002/Integrals/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/Integrals?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
         <a href="https://github.com/Tarun25112002/Integrals"><img src="https://img.shields.io/github/languages/top/Tarun25112002/Integrals?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Tarun25112002/vibecode">vibecode</a></h3>
-      <p align="center">Modern frontend engineering and UI execution</p>
-      <p align="center">
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/Tarun25112002/vibecode">vibecode</a></h3>
+      <p>Modern frontend engineering and UI execution</p>
+      <p>
         <a href="https://github.com/Tarun25112002/vibecode/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/vibecode?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
         <a href="https://github.com/Tarun25112002/vibecode/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/vibecode?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
         <a href="https://github.com/Tarun25112002/vibecode"><img src="https://img.shields.io/github/languages/top/Tarun25112002/vibecode?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
@@ -125,19 +126,19 @@ const tarun = {
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Tarun25112002/Authentication-Next.JS">Authentication-Next.JS</a></h3>
-      <p align="center">Auth flows, security, and production readiness</p>
-      <p align="center">
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/Tarun25112002/Authentication-Next.JS">Authentication-Next.JS</a></h3>
+      <p>Auth flows, security, and production readiness</p>
+      <p>
         <a href="https://github.com/Tarun25112002/Authentication-Next.JS/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/Authentication-Next.JS?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
         <a href="https://github.com/Tarun25112002/Authentication-Next.JS/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/Authentication-Next.JS?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
         <a href="https://github.com/Tarun25112002/Authentication-Next.JS"><img src="https://img.shields.io/github/languages/top/Tarun25112002/Authentication-Next.JS?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Tarun25112002/Cohort-3-Harkirat">Cohort-3-Harkirat</a></h3>
-      <p align="center">Practical web development implementations</p>
-      <p align="center">
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/Tarun25112002/Cohort-3-Harkirat">Cohort-3-Harkirat</a></h3>
+      <p>Practical web development implementations</p>
+      <p>
         <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
         <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
         <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat"><img src="https://img.shields.io/github/languages/top/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
@@ -145,6 +146,7 @@ const tarun = {
     </td>
   </tr>
 </table>
+</div>
 
 <p align="center">
   <a href="https://github.com/Tarun25112002?tab=repositories">
