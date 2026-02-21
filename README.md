@@ -1,159 +1,381 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0b1120,50:164e63,100:78350f&text=Tarun%20Kumar%20Jha&fontColor=f8fafc&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Partner&descAlignY=58&descColor=e2e8f0&animation=fadeIn" width="100%" alt="Header banner" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TARUN KUMAR JHA                            -->
+<!--              Full Stack Developer · Freelancer                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&center=true&vCenter=true&repeat=true&width=980&color=22D3EE&lines=Crafting+high-performance+full-stack+products;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;From+idea+to+production+with+clean+architecture" alt="Typing intro" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0f0f,30:0a192f,60:112240,100:233554&text=TARUN%20KUMAR%20JHA&fontSize=48&fontColor=64ffda&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%94%82%20Building%20the%20Web%2C%20One%20Pixel%20at%20a%20Time&descSize=16&descAlignY=58&descColor=8892b0&stroke=64ffda&strokeWidth=1" width="100%" />
 </div>
+
+<br/>
+
+<!-- ─── Animated Tagline ─── -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=%E2%9C%A6+Architecting+scalable+products+from+zero+to+launch" alt="Typing" />
+</div>
+
+<br/>
+
+<!-- ─── Quick Links Bar ─── -->
+<div align="center">
+  <a href="https://tarunjha.vercel.app"><img src="https://img.shields.io/badge/%E2%97%86_PORTFOLIO-64ffda?style=flat-square&labelColor=0a192f&color=0a192f" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/·-233554?style=flat-square&labelColor=233554" />
+  <a href="https://www.linkedin.com/in/tarun-kumar-jha-721761248/"><img src="https://img.shields.io/badge/%E2%97%86_LINKEDIN-64ffda?style=flat-square&labelColor=0a192f&color=0a192f" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/·-233554?style=flat-square&labelColor=233554" />
+  <a href="https://x.com/TarunJha2002"><img src="https://img.shields.io/badge/%E2%97%86_TWITTER-64ffda?style=flat-square&labelColor=0a192f&color=0a192f" alt="Twitter" /></a>
+  <img src="https://img.shields.io/badge/·-233554?style=flat-square&labelColor=233554" />
+  <a href="mailto:tarunjha2002@gmail.com"><img src="https://img.shields.io/badge/%E2%97%86_EMAIL-64ffda?style=flat-square&labelColor=0a192f&color=0a192f" alt="Email" /></a>
+</div>
+
+<br/>
 
 <div align="center">
-  <a href="mailto:tarunjha2002@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20To-Freelance%20Projects-22c55e?style=for-the-badge&labelColor=0b1120" alt="Open to freelance" />
-  </a>
-  <a href="https://tarunjha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&labelColor=0b1120" alt="Portfolio live" />
-  </a>
-  <a href="https://github.com/Tarun25112002">
-    <img src="https://img.shields.io/badge/Focus-Scalable%20Web%20Apps-f59e0b?style=for-the-badge&labelColor=0b1120" alt="Focus area" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tarun25112002&style=flat-square&color=112240&label=PROFILE+VIEWS&labelColor=0a192f" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Tarun25112002?style=flat-square&color=112240&label=FOLLOWERS&labelColor=0a192f&logo=github&logoColor=64ffda" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Tarun25112002?style=flat-square&color=112240&label=TOTAL+STARS&labelColor=0a192f&logo=github&logoColor=64ffda" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Tarun25112002">
-    <img src="https://komarev.com/ghpvc/?username=Tarun25112002&label=Profile+Views&style=flat-square&color=22d3ee" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Tarun25112002?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tarun25112002?style=flat-square&label=Followers&color=22d3ee" alt="Followers" />
-  </a>
-  <a href="https://github.com/Tarun25112002?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Tarun25112002?style=flat-square&label=Stars&color=f59e0b" alt="Stars" />
-  </a>
-</div>
+<br/>
 
-<p align="center">
-  <i>I build polished user experiences backed by reliable APIs and production-grade engineering workflows.</i>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="55%" valign="top">
 
-## Engineering Profile
+### &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" /> &nbsp; About Me
 
-- Full stack developer focused on product quality, performance, and long-term maintainability.
-- Comfortable owning the full cycle: discovery, architecture, implementation, deployment, and iteration.
-- Strong with modern JavaScript/TypeScript ecosystems and API-first backend design.
+```typescript
+const tarun: Developer = {
+  role: "Full Stack Web Developer",
+  status: "Open to Freelance",
+  stack: ["React", "Next.js", "Node.js", "TypeScript"],
+  architecture: ["Microservices", "REST", "GraphQL", "Event-Driven"],
+  currentlyExploring: "System Design & Cloud Architecture",
+  motto: "Ship fast. Ship clean. Ship often.",
+};
+```
 
-## Current Focus
+&nbsp; **What I do:**
 
-- Building clean and responsive web apps with React and Next.js.
-- Designing backend services with Node.js, Express, and Prisma.
-- Going deeper on system design, cloud deployment strategy, and observability.
-
-## Development Loop
-
-`Discover -> Architect -> Build -> Test -> Deploy -> Improve`
+&nbsp; `▸` Design and build end-to-end web applications  
+&nbsp; `▸` Create performant React/Next.js frontends with clean UX  
+&nbsp; `▸` Architect scalable Node.js backends with robust APIs  
+&nbsp; `▸` Deploy and maintain production-grade systems
 
 </td>
-<td width="38%" valign="top">
+<td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25112002&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=0b1120" alt="Top languages" />
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25112002&layout=donut-vertical&hide_border=true&title_color=64ffda&text_color=8892b0&bg_color=0a192f&langs_count=6" width="85%" />
+</div>
 
 </td>
 </tr>
 </table>
 
-## Capability Grid
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22" /> &nbsp; Tech Stack & Tools
+
+<br/>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### Frontend
+**Frontend**
 
-- `React` `Next.js` `TypeScript`
-- `Tailwind CSS` `Redux` `Framer Motion`
-- Focus: clean UI, responsive behavior, and speed.
+<br/>
 
-</td>
-<td width="33%" valign="top">
-
-### Backend
-
-- `Node.js` `Express` `Prisma`
-- `REST` `GraphQL` `WebSockets`
-- Focus: robust APIs, auth, validation, and scalability.
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,redux,html,css&theme=dark" />
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### Data and DevOps
+**Backend**
 
-- `MongoDB` `PostgreSQL` `Redis`
-- `Docker` `GitHub Actions` `Vercel`
-- Focus: reliable deployment and stable production operations.
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**DevOps & Cloud**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,linux&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**Workflow**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=bash,md,jest,webpack&theme=dark" />
 
 </td>
 </tr>
 </table>
 
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,prisma,mongodb,postgres,redis,docker,git,github,tailwind,vercel,netlify,vscode,postman,linux&perline=10" alt="Tech stack icons" />
 </div>
 
-## GitHub Dashboard
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ANALYTICS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarun25112002&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=f59e0b&text_color=cbd5e1&bg_color=0b1120" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Tarun25112002&hide_border=true&background=0b1120&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&sideLabels=cbd5e1&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub streak" />
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22" /> &nbsp; GitHub Analytics
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarun25112002&show_icons=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=8892b0&bg_color=0a192f&ring_color=64ffda&include_all_commits=true&count_private=true" />
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com?user=Tarun25112002&hide_border=true&background=0a192f&ring=64ffda&fire=ff6e96&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=4a5568&stroke=112240" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun25112002&bg_color=0a192f&color=8892b0&line=64ffda&point=ff6e96&area=true&area_color=112240&hide_border=true&custom_title=Contribution%20Timeline" />
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun25112002&theme=2077" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarun25112002&theme=2077" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun25112002&theme=2077&utcOffset=5.5" />
+
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    WHAT I DELIVER                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun25112002&theme=github_dark" alt="Profile summary" />
+
+### ✦ &nbsp; What I Deliver
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<br/>
+
+**🎨 &nbsp; Frontend Engineering**
+
+<br/>
+
+> Pixel-perfect, responsive interfaces built with  
+> React & Next.js. Smooth animations, accessible  
+> components, and blazing-fast load times.
+
+<br/>
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+<br/>
+
+</td>
+<td align="center" width="50%">
+
+<br/>
+
+**⚙️ &nbsp; Backend Architecture**
+
+<br/>
+
+> Secure, scalable REST & GraphQL APIs powered by  
+> Node.js. Clean database schemas, robust auth,  
+> and production-ready deployment pipelines.
+
+<br/>
+
+`Node.js` · `Express` · `Prisma` · `PostgreSQL`
+
+<br/>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun25112002&bg_color=0b1120&color=cbd5e1&line=22d3ee&point=f59e0b&area=true&area_color=164e63&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+
+### 🏗️ &nbsp; Featured Repositories
+
+<br/>
+
+<a href="https://github.com/Tarun25112002/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=portfolio&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Tarun25112002/Tarun25112002">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Tarun25112002&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
+</a>
+
+<br/><br/>
+
+> _💡 Pin your best repositories on your GitHub profile to showcase them here._
+
 </div>
 
-## Featured Repositories
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       WORKFLOW                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/Tarun25112002/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=portfolio&hide_border=true&title_color=22d3ee&icon_color=f59e0b&text_color=cbd5e1&bg_color=0b1120" alt="Portfolio repository card" />
-  </a>
-  <a href="https://github.com/Tarun25112002/Tarun25112002">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Tarun25112002&hide_border=true&title_color=22d3ee&icon_color=f59e0b&text_color=cbd5e1&bg_color=0b1120" alt="Profile repository card" />
-  </a>
+
+### ⚡ &nbsp; Development Approach
+
+<br/>
+
+```
+  ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐
+  │ DISCOVER │───▸│ DESIGN  │───▸│  BUILD  │───▸│  TEST   │───▸│ DEPLOY  │
+  └─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘
+       │                                                            │
+       └────────────────────── ITERATE ◂────────────────────────────┘
+```
+
 </div>
 
-## Connect
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TROPHIES                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tarun-kumar-jha-721761248/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/TarunJha2002">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://tarunjha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:tarunjha2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+### 🏆 &nbsp; Achievements
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tarun25112002&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONNECT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
+<br/>
+
+<div align="center">
+
+### 🤝 &nbsp; Let's Connect
+
+<br/>
+
+<a href="https://www.linkedin.com/in/tarun-kumar-jha-721761248/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda" />
+</a>
+&nbsp;
+<a href="https://x.com/TarunJha2002">
+  <img src="https://img.shields.io/badge/-Twitter/X-0a192f?style=for-the-badge&logo=x&logoColor=64ffda" />
+</a>
+&nbsp;
+<a href="https://tarunjha.vercel.app">
+  <img src="https://img.shields.io/badge/-Portfolio-0a192f?style=for-the-badge&logo=googlechrome&logoColor=64ffda" />
+</a>
+&nbsp;
+<a href="mailto:tarunjha2002@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+
+</div>
+
+<br/>
+
+<!-- ─── Snake Animation ─── -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake-dark.svg" />
   </picture>
 </div>
 
+<br/>
+
+<!-- ─── Footer ─── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1120,50:164e63,100:78350f" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=2&section=footer" width="100%" />
+  
+  <br/>
+  
+  <sub><b>✦ &nbsp; Crafted with precision &nbsp; · &nbsp; Deployed with confidence &nbsp; · &nbsp; Open to collaboration &nbsp; ✦</b></sub>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0a192f,50:112240,100:233554" width="100%" />
 </div>
