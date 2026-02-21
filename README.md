@@ -61,40 +61,37 @@ const tarun = {
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarun25112002&show_icons=true&hide_border=true&title_color=5bc0be&icon_color=5bc0be&text_color=c9d6df&bg_color=0b132b&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Tarun25112002&hide_border=true&background=0B132B&ring=5BC0BE&fire=6FFFE9&currStreakLabel=5BC0BE&sideLabels=C9D6DF&currStreakNum=E0FBFC&sideNums=E0FBFC&dates=6C7A89&stroke=1C2541" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Followers&logo=github&logoColor=e0fbfc" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Tarun25112002/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Profile%20Repo%20Stars&logo=github&logoColor=e0fbfc" alt="Profile repo stars" />
+  <img src="https://img.shields.io/github/last-commit/Tarun25112002/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Last%20Commit" alt="Last commit" />
+  <img src="https://img.shields.io/github/commit-activity/m/Tarun25112002/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Monthly%20Commits" alt="Monthly commits" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun25112002&bg_color=0b132b&color=c9d6df&line=5bc0be&point=6fffe9&area=true&area_color=1c2541&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun25112002&theme=github_dark" alt="Repos per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarun25112002&theme=github_dark" alt="Most commit language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun25112002&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <a href="https://github.com/Tarun25112002?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-0b132b?style=for-the-badge&logo=github&logoColor=e0fbfc" alt="View repositories" />
+  </a>
+  <a href="https://github.com/Tarun25112002?tab=overview">
+    <img src="https://img.shields.io/badge/View-Contribution%20Calendar-0b132b?style=for-the-badge&logo=github&logoColor=e0fbfc" alt="View contributions" />
+  </a>
 </div>
 
 ---
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Tarun25112002/Integrals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Integrals&hide_border=true&title_color=5bc0be&icon_color=6fffe9&text_color=c9d6df&bg_color=0b132b" alt="Integrals" />
-  </a>
-  <a href="https://github.com/Tarun25112002/vibecode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=vibecode&hide_border=true&title_color=5bc0be&icon_color=6fffe9&text_color=c9d6df&bg_color=0b132b" alt="vibecode" />
-  </a>
-</div>
+| Project | Focus | Link |
+| --- | --- | --- |
+| Integrals | Full-stack architecture and scalable patterns | [Open Repo](https://github.com/Tarun25112002/Integrals) |
+| vibecode | Modern frontend engineering and UI execution | [Open Repo](https://github.com/Tarun25112002/vibecode) |
+| Authentication-Next.JS | Auth flows, security, and production readiness | [Open Repo](https://github.com/Tarun25112002/Authentication-Next.JS) |
+| Cohort-3-Harkirat | Practical web development implementations | [Open Repo](https://github.com/Tarun25112002/Cohort-3-Harkirat) |
 
 <div align="center">
-  <a href="https://github.com/Tarun25112002/Authentication-Next.JS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Authentication-Next.JS&hide_border=true&title_color=5bc0be&icon_color=6fffe9&text_color=c9d6df&bg_color=0b132b" alt="Authentication Next.js" />
-  </a>
-  <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Cohort-3-Harkirat&hide_border=true&title_color=5bc0be&icon_color=6fffe9&text_color=c9d6df&bg_color=0b132b" alt="Cohort 3 Harkirat" />
-  </a>
+  <img src="https://img.shields.io/github/stars/Tarun25112002/Integrals?style=flat-square&color=3a506b&labelColor=0b132b&label=Integrals%20Stars" alt="Integrals stars" />
+  <img src="https://img.shields.io/github/stars/Tarun25112002/vibecode?style=flat-square&color=3a506b&labelColor=0b132b&label=vibecode%20Stars" alt="vibecode stars" />
+  <img src="https://img.shields.io/github/stars/Tarun25112002/Authentication-Next.JS?style=flat-square&color=3a506b&labelColor=0b132b&label=Authentication%20Stars" alt="Authentication stars" />
+  <img src="https://img.shields.io/github/stars/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=3a506b&labelColor=0b132b&label=Cohort%20Stars" alt="Cohort stars" />
 </div>
 
 ---
@@ -121,7 +118,15 @@ const tarun = {
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake.svg" alt="Snake animation" />
+  </picture>
+</div>
+
+<div align="center">
+  <sub>If this is blank, run the <b>Generate Snake Animation</b> workflow once from the Actions tab.</sub>
 </div>
 
 <div align="center">
