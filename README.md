@@ -83,21 +83,12 @@ const tarun = {
 ## `> github-stats`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tarun25112002&show_icons=true&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541&hide_border=false&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarun25112002&show_icons=true&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541&hide_border=false&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Tarun25112002&theme=react&background=0b132b&ring=5bc0be&fire=5bc0be&currStreakLabel=e0fbfc&sideLabels=e0fbfc&sideNums=e0fbfc&currStreakNum=e0fbfc&dates=6fffe9&border=1c2541" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Tarun25112002&theme=react&background=0b132b&ring=5bc0be&fire=5bc0be&currStreakLabel=e0fbfc&sideLabels=e0fbfc&sideNums=e0fbfc&currStreakNum=e0fbfc&dates=6fffe9&border=1c2541" alt="GitHub Streak" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tarun25112002&show_icons=true&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Tarun25112002&theme=react&background=0b132b&ring=5bc0be&fire=5bc0be&currStreakLabel=e0fbfc&sideLabels=e0fbfc&sideNums=e0fbfc&currStreakNum=e0fbfc&dates=6fffe9&border=1c2541" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25112002&layout=compact&theme=react&bg_color=0b132b&title_color=5bc0be&text_color=e0fbfc&border_color=1c2541&langs_count=8" />
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25112002&layout=compact&theme=react&bg_color=0b132b&title_color=5bc0be&text_color=e0fbfc&border_color=1c2541&langs_count=8" alt="Top Languages" />
-  </picture>
+  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tarun25112002&layout=compact&theme=react&bg_color=0b132b&title_color=5bc0be&text_color=e0fbfc&border_color=1c2541&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -112,23 +103,48 @@ const tarun = {
 
 ## `> featured-projects`
 
-<div align="center">
-  <a href="https://github.com/Tarun25112002/Integrals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Integrals&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="Integrals" />
-  </a>
-  <a href="https://github.com/Tarun25112002/vibecode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=vibecode&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="vibecode" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Tarun25112002/Authentication-Next.JS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Authentication-Next.JS&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="Authentication-Next.JS" />
-  </a>
-  <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Cohort-3-Harkirat&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="Cohort-3-Harkirat" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Tarun25112002/Integrals">Integrals</a></h3>
+      <p align="center">Full-stack architecture and scalable patterns</p>
+      <p align="center">
+        <a href="https://github.com/Tarun25112002/Integrals/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/Integrals?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
+        <a href="https://github.com/Tarun25112002/Integrals/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/Integrals?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
+        <a href="https://github.com/Tarun25112002/Integrals"><img src="https://img.shields.io/github/languages/top/Tarun25112002/Integrals?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Tarun25112002/vibecode">vibecode</a></h3>
+      <p align="center">Modern frontend engineering and UI execution</p>
+      <p align="center">
+        <a href="https://github.com/Tarun25112002/vibecode/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/vibecode?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
+        <a href="https://github.com/Tarun25112002/vibecode/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/vibecode?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
+        <a href="https://github.com/Tarun25112002/vibecode"><img src="https://img.shields.io/github/languages/top/Tarun25112002/vibecode?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Tarun25112002/Authentication-Next.JS">Authentication-Next.JS</a></h3>
+      <p align="center">Auth flows, security, and production readiness</p>
+      <p align="center">
+        <a href="https://github.com/Tarun25112002/Authentication-Next.JS/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/Authentication-Next.JS?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
+        <a href="https://github.com/Tarun25112002/Authentication-Next.JS/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/Authentication-Next.JS?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
+        <a href="https://github.com/Tarun25112002/Authentication-Next.JS"><img src="https://img.shields.io/github/languages/top/Tarun25112002/Authentication-Next.JS?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Tarun25112002/Cohort-3-Harkirat">Cohort-3-Harkirat</a></h3>
+      <p align="center">Practical web development implementations</p>
+      <p align="center">
+        <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat/stargazers"><img src="https://img.shields.io/github/stars/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=5bc0be&labelColor=0b132b" alt="Stars" /></a>
+        <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat/network/members"><img src="https://img.shields.io/github/forks/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=3a506b&labelColor=0b132b" alt="Forks" /></a>
+        <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat"><img src="https://img.shields.io/github/languages/top/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=3a506b&labelColor=0b132b" alt="Language" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Tarun25112002?tab=repositories">
@@ -149,11 +165,6 @@ const tarun = {
     <img src="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake.svg" alt="Contribution Snake" width="95%" />
   </picture>
 </div>
-
-<details>
-  <summary><sub>Snake animation blank? Click here.</sub></summary>
-  <sub>Run the <b>Generate Snake Animation</b> workflow once from the <a href="https://github.com/Tarun25112002/Tarun25112002/actions">Actions</a> tab.</sub>
-</details>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER                                                                -->
