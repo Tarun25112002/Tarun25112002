@@ -256,17 +256,23 @@ const tarun: Developer = {
 
 <br/>
 
-<a href="https://github.com/Tarun25112002/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=portfolio&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
+<a href="https://github.com/Tarun25112002/Integrals">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Integrals&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Tarun25112002/Tarun25112002">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Tarun25112002&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
+<a href="https://github.com/Tarun25112002/vibecode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=vibecode&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
 </a>
 
 <br/><br/>
 
-> _💡 Pin your best repositories on your GitHub profile to showcase them here._
+<a href="https://github.com/Tarun25112002/Authentication-Next.JS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Authentication-Next.JS&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Tarun25112002/Cohort-3-Harkirat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Cohort-3-Harkirat&hide_border=true&title_color=64ffda&icon_color=ff6e96&text_color=8892b0&bg_color=0a192f" />
+</a>
 
 </div>
 
@@ -356,13 +362,9 @@ const tarun: Developer = {
 
 <br/>
 
-<!-- ─── Snake Animation ─── -->
+<!-- ─── Snake Animation (requires GitHub Action to generate) ─── -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Tarun25112002/Tarun25112002/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
