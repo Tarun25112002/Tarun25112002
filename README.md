@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/tarun-kumar-jha-721761248/">
     <img src="https://img.shields.io/badge/LinkedIn-5bc0be?style=for-the-badge&logo=linkedin&logoColor=0b132b" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="mailto:tarunjha2002@gmail.com">
+  <a href="mailto:jhatarun14082002@gmail.com">
     <img src="https://img.shields.io/badge/Email-5bc0be?style=for-the-badge&logo=gmail&logoColor=0b132b" alt="Email" />
   </a>&nbsp;
   <a href="https://x.com/TarunJha2002">
