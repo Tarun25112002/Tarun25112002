@@ -1,136 +1,162 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b132b,35:1c2541,70:3a506b,100:5bc0be&text=Tarun%20Kumar%20Jha&fontAlignY=36&fontColor=e0fbfc&fontSize=50&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descColor=b8f2e6&animation=fadeIn" width="100%" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- HEADER                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=1100&color=5BC0BE&center=true&vCenter=true&repeat=true&width=900&lines=Building+scalable+products+end-to-end;React+%2B+Next.js+%7C+Node.js+%7C+TypeScript;Clean+architecture%2C+performance%2C+and+great+developer+experience" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b132b,35:1c2541,70:3a506b,100:5bc0be&text=Tarun%20Kumar%20Jha&fontAlignY=38&fontColor=e0fbfc&fontSize=46&desc=Full%20Stack%20Engineer&descAlignY=58&descColor=b8f2e6&animation=fadeIn" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=Tarun25112002">
-    <img src="https://komarev.com/ghpvc/?username=Tarun25112002&style=for-the-badge&color=3a506b&labelColor=0b132b&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Tarun25112002?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&logo=github&logoColor=e0fbfc" alt="Followers" />
-  </a>
+<p align="center">
+  <a href="https://tarunjha.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-5bc0be?style=for-the-badge&logo=googlechrome&logoColor=0b132b" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/tarun-kumar-jha-721761248/">
+    <img src="https://img.shields.io/badge/LinkedIn-5bc0be?style=for-the-badge&logo=linkedin&logoColor=0b132b" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:tarunjha2002@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-3a506b?style=for-the-badge&labelColor=0b132b&logo=gmail&logoColor=e0fbfc" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-5bc0be?style=for-the-badge&logo=gmail&logoColor=0b132b" alt="Email" />
+  </a>&nbsp;
+  <a href="https://x.com/TarunJha2002">
+    <img src="https://img.shields.io/badge/X-5bc0be?style=for-the-badge&logo=x&logoColor=0b132b" alt="X / Twitter" />
   </a>
-</div>
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tarun25112002&style=flat-square&color=5bc0be&labelColor=0b132b&label=Profile+Views" alt="Profile views" />
+</p>
 
-## About Me
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT                                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-- Full Stack Web Developer focused on shipping reliable, scalable products.
-- Strong in modern frontend engineering with React, Next.js, and TypeScript.
-- Experienced in backend architecture with Node.js, Express, APIs, and databases.
-- Open to freelance projects and product-focused collaborations.
+## `> whoami`
+
+Full-stack engineer who turns ideas into **production-grade web applications**. I care about clean architecture, performance, and developer experience — and I ship code that scales.
+
+<table>
+<tr><td>
 
 ```ts
 const tarun = {
-  role: "Full Stack Web Developer",
-  coreStack: ["React", "Next.js", "Node.js", "TypeScript"],
-  strengths: ["System Design", "API Architecture", "Performance Optimization"],
-  currentlyLearning: "Cloud-Native Architecture and Advanced Scalability Patterns",
+  role: "Full Stack Engineer",
+  stack: ["React", "Next.js", "Node.js", "TypeScript"],
+  strengths: ["System Design", "API Architecture", "Performance"],
+  focus: "Cloud-Native Architecture & Scalability Patterns",
+  available: true, // open to collaborations & freelance
 };
 ```
 
----
+</td><td>
 
-## Tech Stack
+**Quick facts**
+
+- Building end-to-end products with modern JS/TS
+- Strong on both pixel-perfect frontends and resilient backends
+- Advocate for test coverage, CI/CD, and observability
+- Currently exploring distributed systems & edge computing
+
+</td></tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `> tech-stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,mongodb,postgres,redis,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vercel,netlify" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,jest,webpack,npm,bash,md" />
+
+|    Layer     | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0b132b?style=flat-square&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-0b132b?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0b132b?style=flat-square&logo=typescript&logoColor=3178c6) ![Tailwind](https://img.shields.io/badge/Tailwind-0b132b?style=flat-square&logo=tailwindcss&logoColor=38bdf8) ![Redux](https://img.shields.io/badge/Redux-0b132b?style=flat-square&logo=redux&logoColor=764abc) |
+| **Backend**  | ![Node.js](https://img.shields.io/badge/Node.js-0b132b?style=flat-square&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0b132b?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-0b132b?style=flat-square&logo=graphql&logoColor=e10098) ![Prisma](https://img.shields.io/badge/Prisma-0b132b?style=flat-square&logo=prisma&logoColor=white)                                                                                                                |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b132b?style=flat-square&logo=postgresql&logoColor=4169e1) ![MongoDB](https://img.shields.io/badge/MongoDB-0b132b?style=flat-square&logo=mongodb&logoColor=47a248) ![Redis](https://img.shields.io/badge/Redis-0b132b?style=flat-square&logo=redis&logoColor=dc382d) ![Firebase](https://img.shields.io/badge/Firebase-0b132b?style=flat-square&logo=firebase&logoColor=ffca28)                                                                                                     |
+|  **DevOps**  | ![Docker](https://img.shields.io/badge/Docker-0b132b?style=flat-square&logo=docker&logoColor=2496ed) ![GitHub Actions](https://img.shields.io/badge/Actions-0b132b?style=flat-square&logo=githubactions&logoColor=2088ff) ![Nginx](https://img.shields.io/badge/Nginx-0b132b?style=flat-square&logo=nginx&logoColor=009639) ![Vercel](https://img.shields.io/badge/Vercel-0b132b?style=flat-square&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0b132b?style=flat-square&logo=linux&logoColor=fcc624)         |
+|  **Tools**   | ![Git](https://img.shields.io/badge/Git-0b132b?style=flat-square&logo=git&logoColor=f05032) ![VS Code](https://img.shields.io/badge/VS_Code-0b132b?style=flat-square&logo=visualstudiocode&logoColor=007acc) ![Postman](https://img.shields.io/badge/Postman-0b132b?style=flat-square&logo=postman&logoColor=ff6c37) ![Figma](https://img.shields.io/badge/Figma-0b132b?style=flat-square&logo=figma&logoColor=f24e1e) ![Jest](https://img.shields.io/badge/Jest-0b132b?style=flat-square&logo=jest&logoColor=c21325)                     |
+
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## What I Build
-
-- Responsive, accessible, and high-performance frontend applications.
-- Secure and maintainable backend systems with clear API contracts.
-- Production-ready full-stack apps with deployment pipelines and observability.
-- Feature development aligned with product goals and business outcomes.
-
----
-
-## GitHub Analytics
+## `> github-stats`
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Followers&logo=github&logoColor=e0fbfc" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Tarun25112002/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Profile%20Repo%20Stars&logo=github&logoColor=e0fbfc" alt="Profile repo stars" />
-  <img src="https://img.shields.io/github/last-commit/Tarun25112002/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Last%20Commit" alt="Last commit" />
-  <img src="https://img.shields.io/github/commit-activity/m/Tarun25112002/Tarun25112002?style=for-the-badge&color=3a506b&labelColor=0b132b&label=Monthly%20Commits" alt="Monthly commits" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tarun25112002&show_icons=true&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541&hide_border=false&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarun25112002&show_icons=true&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541&hide_border=false&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Tarun25112002&theme=react&background=0b132b&ring=5bc0be&fire=5bc0be&currStreakLabel=e0fbfc&sideLabels=e0fbfc&sideNums=e0fbfc&currStreakNum=e0fbfc&dates=6fffe9&border=1c2541" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Tarun25112002&theme=react&background=0b132b&ring=5bc0be&fire=5bc0be&currStreakLabel=e0fbfc&sideLabels=e0fbfc&sideNums=e0fbfc&currStreakNum=e0fbfc&dates=6fffe9&border=1c2541" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25112002&layout=compact&theme=react&bg_color=0b132b&title_color=5bc0be&text_color=e0fbfc&border_color=1c2541&langs_count=8" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25112002&layout=compact&theme=react&bg_color=0b132b&title_color=5bc0be&text_color=e0fbfc&border_color=1c2541&langs_count=8" alt="Top Languages" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun25112002&bg_color=0b132b&color=5bc0be&line=5bc0be&point=e0fbfc&area=true&area_color=1c2541&hide_border=true" width="95%" alt="Activity Graph" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `> featured-projects`
+
+<div align="center">
+  <a href="https://github.com/Tarun25112002/Integrals">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Integrals&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="Integrals" />
+  </a>
+  <a href="https://github.com/Tarun25112002/vibecode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=vibecode&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="vibecode" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Tarun25112002/Authentication-Next.JS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Authentication-Next.JS&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="Authentication-Next.JS" />
+  </a>
+  <a href="https://github.com/Tarun25112002/Cohort-3-Harkirat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun25112002&repo=Cohort-3-Harkirat&theme=react&bg_color=0b132b&title_color=5bc0be&icon_color=5bc0be&text_color=e0fbfc&border_color=1c2541" alt="Cohort-3-Harkirat" />
+  </a>
+</div>
+
+<p align="center">
   <a href="https://github.com/Tarun25112002?tab=repositories">
-    <img src="https://img.shields.io/badge/View-All%20Repositories-0b132b?style=for-the-badge&logo=github&logoColor=e0fbfc" alt="View repositories" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories%20→-0b132b?style=for-the-badge&logo=github&logoColor=e0fbfc" alt="All Repos" />
   </a>
-  <a href="https://github.com/Tarun25112002?tab=overview">
-    <img src="https://img.shields.io/badge/View-Contribution%20Calendar-0b132b?style=for-the-badge&logo=github&logoColor=e0fbfc" alt="View contributions" />
-  </a>
-</div>
+</p>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## Featured Projects
-
-| Project | Focus | Link |
-| --- | --- | --- |
-| Integrals | Full-stack architecture and scalable patterns | [Open Repo](https://github.com/Tarun25112002/Integrals) |
-| vibecode | Modern frontend engineering and UI execution | [Open Repo](https://github.com/Tarun25112002/vibecode) |
-| Authentication-Next.JS | Auth flows, security, and production readiness | [Open Repo](https://github.com/Tarun25112002/Authentication-Next.JS) |
-| Cohort-3-Harkirat | Practical web development implementations | [Open Repo](https://github.com/Tarun25112002/Cohort-3-Harkirat) |
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/Tarun25112002/Integrals?style=flat-square&color=3a506b&labelColor=0b132b&label=Integrals%20Stars" alt="Integrals stars" />
-  <img src="https://img.shields.io/github/stars/Tarun25112002/vibecode?style=flat-square&color=3a506b&labelColor=0b132b&label=vibecode%20Stars" alt="vibecode stars" />
-  <img src="https://img.shields.io/github/stars/Tarun25112002/Authentication-Next.JS?style=flat-square&color=3a506b&labelColor=0b132b&label=Authentication%20Stars" alt="Authentication stars" />
-  <img src="https://img.shields.io/github/stars/Tarun25112002/Cohort-3-Harkirat?style=flat-square&color=3a506b&labelColor=0b132b&label=Cohort%20Stars" alt="Cohort stars" />
-</div>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="https://tarunjha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0b132b?style=for-the-badge&logo=googlechrome&logoColor=e0fbfc" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/tarun-kumar-jha-721761248/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b132b?style=for-the-badge&logo=linkedin&logoColor=e0fbfc" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/TarunJha2002">
-    <img src="https://img.shields.io/badge/X-0b132b?style=for-the-badge&logo=x&logoColor=e0fbfc" alt="X" />
-  </a>
-  <a href="mailto:tarunjha2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0b132b?style=for-the-badge&logo=gmail&logoColor=e0fbfc" alt="Gmail" />
-  </a>
-</div>
-
----
-
-## Contribution Snake
+## `> contributions`
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake.svg" alt="Snake animation" />
+    <img src="https://cdn.jsdelivr.net/gh/Tarun25112002/Tarun25112002@output/github-snake.svg" alt="Contribution Snake" width="95%" />
   </picture>
 </div>
 
-<div align="center">
-  <sub>If this is blank, run the <b>Generate Snake Animation</b> workflow once from the Actions tab.</sub>
-</div>
+<details>
+  <summary><sub>Snake animation blank? Click here.</sub></summary>
+  <sub>Run the <b>Generate Snake Animation</b> workflow once from the <a href="https://github.com/Tarun25112002/Tarun25112002/actions">Actions</a> tab.</sub>
+</details>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b132b&height=2&section=footer" width="100%" />
-  <br/>
-  <sub>Crafted with focus on quality, scalability, and clean execution.</sub>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- FOOTER                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5bc0be,50:3a506b,100:0b132b&section=footer" width="100%" />
